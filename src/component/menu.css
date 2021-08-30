@@ -1,0 +1,37 @@
+.bgcolor{
+  background: linear-gradient(to right, #41295a, #2f0743);
+  width: 19%;
+  height: 900px;
+  
+}
+
+.userInfo{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.avatar img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.userTittle{
+  font-weight: bold;
+}
+
+.userTittle p{
+  margin-bottom: 0;
+}
+
+.navs{
+  margin-top: 20%;
+  padding-left: 5%;
+  font-weight: bold;
+}
+
+.navs div{
+  padding: 10% 0;
+  cursor: pointer;
+}

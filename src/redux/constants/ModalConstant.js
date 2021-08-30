@@ -1,0 +1,7 @@
+export const OPEN_MODAL = 'OPEN_MODAL'
+export const HIDE_MODAL = 'HIDE_MODAL'
+export const OPEN_MODAL_LOGOUT = 'OPEN_MODAL_LOGOUT'
+export const OPEN_MODAL_EDIT = 'OPEN_MODAL_EDIT'
+
+
+export const OPEN_MODAL_LOGOUT_SAGA = 'OPEN_MODAL_LOGOUT_SAGA'
